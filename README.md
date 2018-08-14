@@ -7,8 +7,10 @@
 
 - 参考
     - [Synonyms: 中文近义词工具包](http://www.52nlp.cn/synonyms-中文近义词工具包)
+        - GitHub源代码 https://github.com/huyingxi/Synonyms
     - [千万级巨型汉语词库分享](http://www.hankcs.com/nlp/corpus/tens-of-millions-of-giant-chinese-word-library-share.html)
     - 训练数据 https://github.com/Samurais/wikidata-corpus
+    - [如何扩充词库](https://github.com/huyingxi/Synonyms/issues/5)
     
 - 安装
     - pip install -U synonyms
